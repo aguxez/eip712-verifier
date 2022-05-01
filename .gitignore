@@ -1,0 +1,7 @@
+cache/
+out/
+node_modules/
+artifacts/
+cache/
+typechain/
+*.log
